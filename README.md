@@ -2,7 +2,7 @@
 
 > 打开摄像头，用 OpenCV Haar 级联分类器实时检测画面中的正面人脸并标注绿框，按 `q` 退出。
 
-**简体中文** · [ English](#english)
+**中文** · [ English](#english)
 
 ---
 
